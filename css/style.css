@@ -162,6 +162,7 @@ p.copyright {
 }
 
 .language-select {
+	z-index: 99;
 	color: white;
 	border-color: white;
 	font-size: 24px;
